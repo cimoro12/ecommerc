@@ -1,0 +1,108 @@
+[
+  {
+    "_id": 1,
+    "title": "God Of WAR",
+    "description": "steam",
+    "level": "High",
+    "category": "Adventure",
+    "rating": 5,
+    "discount": 0,
+    "price": 16.0,
+    "img": "./assets/games/God-Of_War.jpg",
+    "trailer": "https://www.youtube.com/embed/Dc5xOGS1oJ0?si=zjWFwXxKhNQBymYh",
+    "active": true
+  },
+  {
+    "_id": 2,
+    "title": "Mincraft",
+    "description": "steam",
+    "level": "Median",
+    "category": "Open World",
+    "rating": 3,
+    "discount": 0,
+    "price": 10,
+    "img": "./assets/games/mincraft.jpg",
+    "trailer": "https://www.youtube.com/embed/Rla3FUlxJdE?si=_ShIJdv-e0V_jBHb",
+    "active": false
+  },
+
+  {
+    "_id": 3,
+    "title": "GTA V",
+    "description": "Full Acces",
+    "level": "Median",
+    "category": "Open World",
+    "rating": 3,
+    "discount": 0,
+    "price": 14.0,
+    "img": "./assets/games/Gta.jpg",
+    "trailer": "https://www.youtube.com/embed/QkkoHAzjnUs?si=Gse0bPsRIDRvTPEU",
+    "active": false
+  },
+  {
+    "_id": 4,
+    "title": "the last of us 1",
+    "description": "steam",
+    "level": "Entry",
+    "category": "survival",
+    "rating": 4,
+    "discount": 0,
+    "price": 65.6,
+    "img": "./assets/games/thelastofus.jpg",
+    "trailer": "https://www.youtube.com/embed/_o7Ip64-Sio",
+    "active": false
+  },
+
+  {
+    "_id": 5,
+    "title": "Forza Horizon 5",
+    "description": "steam",
+    "level": "High",
+    "category": "Racing",
+    "rating": 4,
+    "discount": 0,
+    "price": 129.0,
+    "img": "./assets/games/forza-horizon-5-bg.jpeg",
+    "trailer": "https://www.youtube.com/embed/FYH9n37B7Yw",
+    "active": false
+  },
+  {
+    "_id": 6,
+    "title": "Resident Evil Biohazard",
+    "description": "steam",
+    "level": "Median",
+    "category": "Battle",
+    "rating": 4,
+    "discount": 0,
+    "price": 20,
+    "img": "./assets/games/resident-evil-7.jpg",
+    "trailer": "https://www.youtube.com/embed/RgYqQsbKn6w?si=bpWxttwRqjL3VVRY",
+    "active": false
+  },
+  {
+    "_id": 7,
+    "title": "Red Dead Redemption 2",
+    "description": "Full Acces",
+    "level": "High",
+    "category": "Open World",
+    "rating": 4,
+    "discount": 0,
+    "price": 69.0,
+    "img": "./assets/games/reddead.jpg",
+    "trailer": "https://www.youtube.com/embed/F63h3v9QV7w?si=qmfvjiEHtxXH6Cuf",
+    "active": false
+  },
+  {
+    "_id": 8,
+    "title": "Diablo III",
+    "description": "steam",
+    "level": "High",
+    "category": "RPG",
+    "rating": 5,
+    "discount": 0,
+    "price": 20.0,
+    "img": "./assets/games/diablo-3-bg.jpeg",
+    "trailer": "https://www.youtube.com/embed/M2TpNQhfkp4",
+    "active": false
+  }
+]
